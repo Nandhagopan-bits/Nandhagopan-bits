@@ -1,6 +1,8 @@
 # 💫 About Me:
 💼 I'm currently working on Python<br>🤝 I'm looking to collaborate on Python🐍, Arduino<br>🌱 I'm currently learning Python and AI<br>💬 Ask me about - Technology field<br>⚡  I know Python… but if you bring me a real snake, I’ll run faster than my code loops! 🏃‍♂️💨<br>
 
+<img align="right" height="150" src="mygif.gif"  />
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Bsf2NZzV) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30250327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandhagopan.s007@gmail.com) 
