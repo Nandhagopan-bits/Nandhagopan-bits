@@ -1,21 +1,22 @@
 ## 💫 About Me:
 
-<table>
+<table border="2" cellspacing="8" cellpadding="10" style="border-color:#bbf7d0; border-style:solid; border-radius:10px;">
   <tr>
-    <td>
+    <td valign="top" align="left">
 
-💼 I'm currently working on **Python**  
-🤝 I'm looking to collaborate on **Python 🐍** and **Arduino** projects  
-🌱 I'm currently learning **Python** and **AI**  
-💬 Ask me about anything in the **Technology field**  
+💼 I'm currently working on **Python**<br>
+🤝 I'm looking to collaborate on **Python 🐍** and **Arduino** projects<br>
+🌱 I'm currently learning **Python** and **AI**<br>
+💬 Ask me about anything in the **Technology field**<br>
 ⚡ I know Python… but if you bring me a real snake, I’ll run faster than my code loops! 🏃‍♂️💨  
 
 </td>
-    <td>
-      <img src="mygif.gif" height="150">
+    <td valign="top" align="right">
+      <img src="mygif.gif" height="180" style="border-radius:10px;">
     </td>
   </tr>
 </table>
+
 
 
 
