@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-<div align="left">
 💼 I'm currently working on **Python**  
 🤝 I'm looking to collaborate on **Python 🐍** and **Arduino** projects  
 🌱 I'm currently learning **Python** and **AI**  
 💬 Ask me about anything in the **Technology field**  
 ⚡ I know Python… but if you bring me a real snake, I’ll run faster than my code loops! 🏃‍♂️💨  
-</div>
+
+<br> <!-- This line ensures a break -->
 
 <img align="right" height="150" src="mygif.gif" />
 
