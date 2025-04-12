@@ -1,7 +1,14 @@
 # 💫 About Me:
-💼 I'm currently working on Python<br>🤝 I'm looking to collaborate on Python🐍, Arduino<br>🌱 I'm currently learning Python and AI<br>💬 Ask me about - Technology field<br>⚡  I know Python… but if you bring me a real snake, I’ll run faster than my code loops! 🏃‍♂️💨<br>
 
-<img align="right" height="150" src="mygif.gif"  />
+<div align="left">
+💼 I'm currently working on **Python**  
+🤝 I'm looking to collaborate on **Python 🐍** and **Arduino** projects  
+🌱 I'm currently learning **Python** and **AI**  
+💬 Ask me about anything in the **Technology field**  
+⚡ I know Python… but if you bring me a real snake, I’ll run faster than my code loops! 🏃‍♂️💨  
+</div>
+
+<img align="right" height="150" src="mygif.gif" />
 
 
 ## 🌐 Socials:
