@@ -1,4 +1,8 @@
-# 💫 About Me:
+## 💫 About Me:
+
+<table>
+  <tr>
+    <td>
 
 💼 I'm currently working on **Python**  
 🤝 I'm looking to collaborate on **Python 🐍** and **Arduino** projects  
@@ -6,9 +10,13 @@
 💬 Ask me about anything in the **Technology field**  
 ⚡ I know Python… but if you bring me a real snake, I’ll run faster than my code loops! 🏃‍♂️💨  
 
-<br> <!-- This line ensures a break -->
+</td>
+    <td>
+      <img src="mygif.gif" height="150">
+    </td>
+  </tr>
+</table>
 
-<img align="right" height="150" src="mygif.gif" />
 
 
 ## 🌐 Socials:
